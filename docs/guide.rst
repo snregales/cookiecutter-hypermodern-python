@@ -237,7 +237,6 @@ using a subdirectory with the same name as your project.
 Here is a complete list of the project variables defined by this template:
 
 .. table:: Project variables
-   :class: hypermodern-table
    :widths: auto
 
    ================== =============================== ======================
@@ -335,7 +334,6 @@ This section provides an overview of all the files generated for your project.
 Let's start with the directory layout:
 
 .. table:: Directories
-   :class: hypermodern-table
    :widths: auto
 
    ===================================== ===============================
@@ -349,7 +347,6 @@ The Python package is located in the ``src/<package>`` directory.
 For more details on these files, refer to the section :ref:`The initial package`.
 
 .. table:: Python package
-   :class: hypermodern-table
    :widths: auto
 
    ===================================== ===============================
@@ -362,7 +359,6 @@ The test suite is located in the ``tests`` directory.
 For more details on these files, refer to the section :ref:`The test suite`.
 
 .. table:: Test suite
-   :class: hypermodern-table
    :widths: auto
 
    ===================================== ===============================
@@ -374,7 +370,6 @@ The project documentation is written in reStructuredText_.
 The documentation files in the top-level directory are rendered on GitHub_:
 
 .. table:: Documentation files (top-level)
-   :class: hypermodern-table
    :widths: auto
 
    ======================= ============================================
@@ -389,7 +384,6 @@ built using :ref:`Sphinx <Documentation>` and
 hosted on :ref:`Read the Docs <Read the Docs integration>`:
 
 .. table:: Documentation files (Sphinx)
-   :class: hypermodern-table
    :widths: auto
 
    ====================== =======================================================
@@ -403,7 +397,6 @@ hosted on :ref:`Read the Docs <Read the Docs integration>`:
 The ``.github/workflows`` directory contains the :ref:`GitHub Actions workflows <GitHub Actions workflows>`:
 
 .. table:: GitHub Actions workflows
-   :class: hypermodern-table
    :widths: auto
 
    ======================= ===============================
@@ -417,7 +410,6 @@ The table below lists these files,
 and links each file to a section with more details.
 
 .. table:: Configuration files
-   :class: hypermodern-table
    :widths: auto
 
    ===================================== ========================================
@@ -446,7 +438,6 @@ The table below lists some additional files with pinned dependencies.
 Follow the links for more details on these.
 
 .. table:: Dependency files
-   :class: hypermodern-table
    :widths: auto
 
    ===================================== ================================
@@ -727,7 +718,6 @@ The template also comes with various development dependencies.
 See the table below for an overview of the dependencies of generated projects:
 
 .. table:: Dependencies
-   :class: hypermodern-table
    :widths: auto
 
    ======================= ====================================================================================
@@ -1089,7 +1079,6 @@ Overview of Nox sessions
 The following table gives an overview of the available Nox sessions:
 
 .. table:: Nox sessions
-   :class: hypermodern-table
    :widths: auto
 
    ========================================== ===================================== ================== =========
@@ -1634,7 +1623,6 @@ Overview of pre-commit hooks
 The |HPC| comes with a pre-commit configuration consisting of the following hooks:
 
 .. table:: pre-commit hooks
-   :class: hypermodern-table
    :widths: auto
 
    ======================== ===============================================
@@ -1728,7 +1716,6 @@ The following table lists the Flake8 plugins used by the |HPC|,
 and links to their lists of error codes.
 
 .. table:: Flake8 plugins
-   :class: hypermodern-table
    :widths: auto
 
    ================================ ============================================= ======================================
@@ -2084,7 +2071,6 @@ __ https://docs.github.com/en/github/administering-a-repository/configuration-op
 It manages the following dependencies:
 
 .. table::
-   :class: hypermodern-table
    :widths: auto
 
    =================== ===================================== ================================================
@@ -2183,7 +2169,6 @@ Overview of workflows
 The |HPC| defines the following workflows:
 
 .. table:: GitHub Actions workflows
-   :class: hypermodern-table
    :widths: auto
 
    ===================================================== ======================== ==================================== =====================
@@ -2200,7 +2185,6 @@ Overview of GitHub Actions
 Workflows use the following GitHub Actions:
 
 .. table:: GitHub Actions
-   :class: hypermodern-table
    :widths: auto
 
    ============================================ =========================================================
@@ -2277,7 +2261,6 @@ as shown in the table below:
 __ https://help.github.com/en/actions/automating-your-workflow-with-github-actions/virtual-environments-for-github-hosted-runners#supported-runners-and-hardware-resources
 
 .. table:: Jobs in the Tests workflow
-   :class: hypermodern-table
    :widths: auto
 
    ========================================== ====================== ==================
@@ -2340,7 +2323,6 @@ You can generate these tokens from your account settings on these services.
 The tokens need to be stored as secrets in the repository settings on GitHub:
 
 .. table:: Secrets
-   :class: hypermodern-table
    :widths: auto
 
    =================== ===================
