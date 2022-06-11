@@ -16,5 +16,7 @@
     "Development Status :: 5 - Production/Stable",
     "Development Status :: 6 - Mature",
     "Development Status :: 7 - Inactive"
-  ]
+  ],
+  "devcontainer_os": ["bullseye", "buster"],
+  "devcontainer_python": ["3.10", "3.9", "3.8", "3.7", "3.6"]
 }
